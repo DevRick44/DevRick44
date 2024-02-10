@@ -4,7 +4,7 @@
 - 🌱 Estou atualmente estudando Analise e Desenvolvimento de Sistemas
 - 😄 Pronouns: Ele/Dele
 
-![Rick GitHub stats](https://github-readme-stats.vercel.app/api?username=DevRick44_icons=true&theme=dracula&count_private=true)
+![Rick GitHub stats](https://github-readme-stats.vercel.app/api?username=DevRick44_icons=true&theme=radical)
   
   ##
  

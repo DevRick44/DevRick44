@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Ricardo
 
 
-- 🌱 Estou atualmente estudando Analise e Desenvolvimento de Sistemas
+- 🌱 Estou atualmente cursando Analise e Desenvolvimento de Sistemas
 - 😄 Pronouns: Ele/Dele
 
 ![Rick GitHub stats](https://github-readme-stats.vercel.app/api?username=DevRick44&show_icons=true&theme=radical)
